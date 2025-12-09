@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.fsapp"},{"l":"ru.fsapp.model"},{"l":"ru.fsapp.service"},{"l":"ru.fsapp.ui"},{"l":"ru.fsapp.util"}];updateSearchResults();

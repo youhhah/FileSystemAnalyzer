@@ -1,0 +1,31 @@
+2025-12-05 01:06:51 [INFO ] FileSystemAnalyzerApp - === Запуск приложения FileSystemAnalyzer ===
+2025-12-05 01:06:52 [DEBUG] FileSystemAnalyzerApp - Создание главного окна
+2025-12-05 01:06:52 [DEBUG] MainFrame - Инициализация главного окна
+2025-12-05 01:06:52 [DEBUG] MainFrame - Инициализация компонентов
+2025-12-05 01:06:52 [DEBUG] MainFrame - Компоненты инициализированы
+2025-12-05 01:06:52 [DEBUG] MainFrame - Настройка расположения
+2025-12-05 01:06:52 [DEBUG] MainFrame - Расположение настроено
+2025-12-05 01:06:52 [DEBUG] MainFrame - Настройка обработчиков
+2025-12-05 01:06:52 [DEBUG] MainFrame - Главное окно инициализировано
+2025-12-05 01:06:52 [INFO ] FileSystemAnalyzerApp - Главное окно успешно создано и отображено
+2025-12-05 01:06:57 [DEBUG] MainFrame - Открытие диалога выбора папки
+2025-12-05 01:07:02 [INFO ] MainFrame - Выбрана папка: C:\Users\Ahmed\Documents\GTA San Andreas User Files
+2025-12-05 01:07:04 [INFO ] MainFrame - Начало анализа
+2025-12-05 01:07:04 [INFO ] FileSystemService - Начало анализа: C:\Users\Ahmed\Documents\GTA San Andreas User Files
+2025-12-05 01:07:04 [INFO ] FileSystemService - Анализ завершён
+2025-12-05 01:07:04 [DEBUG] MainFrame - Отображение дерева
+2025-12-05 01:07:04 [INFO ] MainFrame - Анализ завершён
+2025-12-05 01:07:05 [DEBUG] FormatUtils - Форматирование размера: 0
+2025-12-05 01:07:05 [DEBUG] FormatUtils - Форматирование даты: 1728555791104
+2025-12-05 01:07:05 [DEBUG] MainFrame - Информация отображена
+2025-12-05 01:07:05 [DEBUG] MainFrame - Файл выбран: Gallery
+2025-12-05 01:07:13 [INFO ] MainFrame - Путь скопирован
+2025-12-06 15:55:07 [INFO ] FileSystemAnalyzerApp - === ‡ ЇгбЄ ЇаЁ«®¦Ґ­Ёп FileSystemAnalyzer ===
+2025-12-06 15:55:07 [DEBUG] FileSystemAnalyzerApp - ‘®§¤ ­ЁҐ Ј« ў­®Ј® ®Є­ 
+2025-12-06 15:55:08 [INFO ] FileSystemAnalyzerApp - ѓ« ў­®Ґ ®Є­® гбЇҐи­® б®§¤ ­® Ё ®в®Ўа ¦Ґ­®
+2025-12-06 16:00:10 [INFO ] FileSystemAnalyzerApp - === ‡ ЇгбЄ ЇаЁ«®¦Ґ­Ёп FileSystemAnalyzer ===
+2025-12-06 16:00:10 [DEBUG] FileSystemAnalyzerApp - ‘®§¤ ­ЁҐ Ј« ў­®Ј® ®Є­ 
+2025-12-06 16:00:11 [INFO ] FileSystemAnalyzerApp - ѓ« ў­®Ґ ®Є­® гбЇҐи­® б®§¤ ­® Ё ®в®Ўа ¦Ґ­®
+2025-12-06 16:04:56 [INFO ] FileSystemAnalyzerApp - === Запуск приложения FileSystemAnalyzer ===
+2025-12-06 16:04:57 [DEBUG] FileSystemAnalyzerApp - Создание главного окна
+2025-12-06 16:04:57 [INFO ] FileSystemAnalyzerApp - Главное окно успешно создано и отображено
